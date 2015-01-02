@@ -1,8 +1,12 @@
 Algorithms
 ==========
 
-Algorithms playground for common questions solved in ruby syntax.  
-In case you want to prepare yourself for a job interview - try to solve it yourself first, then have a look here.  
+Algorithms playground for common questions solved in Python.
+In case you want to prepare yourself for a job interview - try to solve it yourself first, then have a look here.
+
+# Fork
+
+This is a fork of [this project](https://github.com/sagivo/algorithms). I'm working through it in preparation for technical interviews. Each `.rb` file without a corresponding `.py` file is essentially an open ticket.
 
 # Problems
 
@@ -25,14 +29,6 @@ In case you want to prepare yourself for a job interview - try to solve it yours
 - [Longest common subsequence problem](https://en.wikipedia.org/wiki/Longest_common_subsequence_problem)
 
 #How?  
-Simply run `ruby some_file.rb` to execute the algorithm. At the bottom of each file there are some test samples.  
-example: `ruby brackets_combinations.rb` will print:  
+Simply run `python some_file.py` to execute the algorithm. At the bottom of each file there are some test samples.  
+example: `python brackets_combinations.py` will print:  
 `["((()))", "(()())", "(())()", "()(())", "()()()"]`.  
-
-# Why?
-I interviewed with Google, Facebook, Twitter, LinkedIn and others. 
-Sometimes it looks like they all ask you the same "out of the box" questions that don't really check knowledge but memorization of the same tricks. 
-This is my way of saying - change your interview style. There are lots of smart people out there, this is not the best way to find them. 
-
-# Contribute 
-Did you find a bug? any way to do it better? please feel free to pull-request it :)
